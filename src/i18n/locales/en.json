@@ -1,0 +1,59 @@
+{
+  "translation": {
+    "Or": "or",
+    "no": "No",
+    "backToSearch": "Back to Results",
+    "hello": "Hello world",
+    "findYourParking": "Find a Parking Space",
+    "logout": "Log Out",
+    "home": {
+      "title": "Find a Home for Your Car",
+      "col1": {
+        "title": "Find",
+        "text": "Looking for a parking space near your home or office? Find the ones nearby and if none are found, set up an alert."
+      },
+      "col2": {
+        "title": "Rent",
+        "text": "Not ready to make a long term investment? That’s fine, you can find parking spaces to rent on Mesta. "
+      },
+      "col3": {
+        "title": "Buy",
+        "text": "When you do decide to buy, we make the process as easy as possible by helping out with financing options. "
+      }
+    },
+    "search": {
+      "whereToParkYourCar": "Enter an address below to find nearby parking spaces:"
+    },
+    "price": {
+      "from": "from {{value}}/mo"
+    },
+    "facebook": {
+      "searchPageText": "Looking for new parking spots near {{address}}?  Be the first to find out when new ones appear.",
+      "login": "Login with Facebook",
+      "loginToBuy": "Login with Facebook to Buy"
+    },
+    "property": {
+      "buy": "Buy",
+      "rent": "Rent",
+      "buyFinancingOptions": "Buy financing options",
+      "rentFinancingOptions": "Rent financing options",
+      "financingOptions": "Financing Options",
+      "chooseBanks": "1. Choose the banks you want an offer from:",
+      "noFinancingNeeded": "No financing needed",
+      "amountToPayUpfront": "2. Amount to pay upfront:",
+      "loanPeriod": "3. Loan period:",
+      "getOffer": "Request offer",
+      "noThanks": "No, thanks!",
+      "showFinancing": "Show Financing Options",
+      "yourTotal": "Your total is",
+      "placeholders": {
+        "loanPeriod": "6 months",
+        "email": "e-mail"
+      }
+    },
+    "banks": {
+      "nordea": "Nordea",
+      "op": "OP"
+    }
+  }
+}

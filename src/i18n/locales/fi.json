@@ -1,0 +1,55 @@
+{
+  "translation": {
+    "Or": "tai",
+    "no": "Ei",
+    "backToSearch": "Takaisin Tuloksiin",
+    "hello": "Terve maailma",
+    "findYourParking": " Löydä autopaikka",
+    "logout": "Kirjaudu Ulos",
+    "home": {
+      "title": "Löydä Koti Autollesi",
+      "col1": {
+        "title": "Löydä",
+        "text": "Etsitkö autopaikkaa toimistosi tai kotisi lähistöltä? Mesta auttaa sinua sen löytämiseen läheltäsi, ja jos sellaista ei löydy, voit asettaa hälytyksen."
+      },
+      "col2": {
+        "title": "Vuokraa",
+        "text": "Et ole valmis pitkäaikaiseen sijoittamiseen? Ei hätää, Mestan avulla löydät vuokrattavia parkkipaikkoja."
+      },
+      "col3": {
+        "title": "Osta",
+        "text": "Kun kuitenkin päätät ostaa, teemme käsittelystä mahdollisimman helpon auttamalla rahoitusvaihtoehdoilla."
+      }
+    },
+    "search": {
+      "whereToParkYourCar": "Kirjoita osoite alle löytääksesi lähimmät parkkipaikat:"
+    },
+    "price": {
+      "from": "alk. {{value}}/kk"
+    },
+    "facebook": {
+      "searchPageText": "Etsitkö parkkipaikkoja alueelta {{address}}? Ole ensimmäinen tietämään, kun uudet ilmestyvät",
+      "login": "Kirjaudu sisään Facebook -tililläsi",
+      "loginToBuy": "Kirjaudu sisään Facebook -tililläsi ostaaksesi"
+    },
+    "property": {
+      "buy": "Osta",
+      "rent": "Vuokraa",
+      "buyFinancingOptions": "Buy financing options",
+      "rentFinancingOptions": "Rent financing options",
+      "financingOptions": "Rahoitusmahdollisuudet",
+      "chooseBanks": "1. Valitse pankit, joilta haluat lainatarjouksen:",
+      "noFinancingNeeded": " Ei rahoitustarvetta",
+      "amountToPayUpfront": "2. Etukäteen maksettava summa:",
+      "loanPeriod": "3. Lainan aikaväli:",
+      "getOffer": "Pyydä Tarjous",
+      "noThanks": "Ei kiitos!",
+      "showFinancing": "Näytä rahoitusmahdollisuudet",
+      "yourTotal": "Kokonaissummasi on"
+    },
+    "banks": {
+      "nordea": "Nordea",
+      "op": "OP"
+    }
+  }
+}
